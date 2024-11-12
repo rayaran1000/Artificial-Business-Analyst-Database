@@ -1,5 +1,3 @@
-kepid,kepoi_name,kepler_name,koi_disposition,koi_pdisposition,koi_score,koi_fpflag_nt,koi_fpflag_ss,koi_fpflag_co,koi_fpflag_ec
-10797460,K00752.01,Kepler-227 b,CONFIRMED,CANDIDATE,1,0,0,0,0
-10797460,K00752.02,Kepler-227 c,CONFIRMED,CANDIDATE,0.969,0,0,0,0
-10811496,K00753.01,,FALSE POSITIVE,FALSE POSITIVE,0,0,1,0,0
-10848459,K00754.01,,FALSE POSITIVE,FALSE POSITIVE,0,0,1,0,0
+kepid,kepoi_name,kepler_name,koi_disposition,koi_pdisposition,koi_score
+10797460,K00752.01,Kepler-227 b,CONFIRMED,CANDIDATE,1
+10797460,K00752.02,Kepler-227 c,CONFIRMED,CANDIDATE,0.969
